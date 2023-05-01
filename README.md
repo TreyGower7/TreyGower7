@@ -1,6 +1,6 @@
 ### Hi, my name is Trey  <img src="https://user-images.githubusercontent.com/70235944/235464816-97a74fe3-00e5-4e2d-a68d-b88911af71ac.gif" alt="Logo" width="20" >
 #### I am a Computational Engineering student at The University of Texas at Austin
-![I am a Computational Engineering student at The University of Texas at Austin and ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Computational Engineering student at The University of Texas at Austin and ]()
 
 ### About Me:
 .
