@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi, my name is Trey  <img src="https://user-images.githubusercontent.com/70235944/235464816-97a74fe3-00e5-4e2d-a68d-b88911af71ac.gif" alt="Logo" width="20" >
+#### I am a Computational Engineering student at The University of Texas at Austin
+![I am a Computational Engineering student at The University of Texas at Austin and ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**TreyGower7/TreyGower7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+.
 
-Here are some ideas to get you started:
+Skills: C++ / Python / Linux / Kubernetes / Redis
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
