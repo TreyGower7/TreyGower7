@@ -6,7 +6,7 @@
 ### About Me:
 .
 
-Skills: C++ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width =30> Python <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width =30>/ Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =30> Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width =30>  Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width =30>
+Skills: C++ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width =30> / Python <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width =30> / Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =30> / Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width =30> / Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width =30>
 
 
 - 🌱 I’m currently learning --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=30> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=30> 
