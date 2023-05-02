@@ -17,7 +17,7 @@ Skills: C++ / Python / Linux / Kubernetes / Redis
 <a href="https://www.youtube.com/channel/UC5csCBWv404Pmg1c04F4oUA">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
-<a href="goweryert@gmail.com">
+<a mailto="goweryert@gmail.com">
   <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
 </a>
 </div>
