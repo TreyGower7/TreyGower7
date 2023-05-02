@@ -9,12 +9,10 @@
 
 Skills: C++ / Python / Linux / Kubernetes / Redis
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning:
+  Javascript / html 
 - 📫 How to reach me: 
   |Email: | goweryert@gmail.com|
   |----- | ------|
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I rock climb and run marathons!
 -->
