@@ -7,6 +7,7 @@
 .
 
 Skills: C++ / Python / Linux / Kubernetes / Redis
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 - 🌱 I’m currently learning --> Javascript / html 
 - 📫 How to reach me: 
