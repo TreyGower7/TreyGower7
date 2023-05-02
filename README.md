@@ -9,7 +9,7 @@
 Skills: C++ / Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =20>/ Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =30>/ Kubernetes / Redis
 
 
-- 🌱 I’m currently learning --> Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=30>/ html <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=30> 
+- 🌱 I’m currently learning --> Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=30> html <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=30> 
 - 📫 How to reach me: 
 <div id="badges">
 <a href="https://www.linkedin.com/in/trey-gower-4107bb188/">
