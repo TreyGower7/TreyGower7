@@ -2,7 +2,7 @@
 #### I am a Computational Engineering student at The University of Texas at Austin
 ![I am a Computational Engineering student at The University of Texas at Austin and] 
 
-<img src= "https://user-images.githubusercontent.com/70235944/235690878-3e10bde9-39d7-4e48-8249-acc4c0a5439e.png">
+<img src= "https://user-images.githubusercontent.com/70235944/235691242-57eb39ea-0bfd-4e28-8da6-f5d1043d3ec7.png">
 
 ### About Me:
 .
