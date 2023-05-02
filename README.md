@@ -9,10 +9,9 @@
 
 Skills: C++ / Python / Linux / Kubernetes / Redis
 
-- 🌱 I’m currently learning:
-  Javascript / html 
+- 🌱 I’m currently learning --> Javascript / html 
 - 📫 How to reach me: 
   |Email: | goweryert@gmail.com|
   |----- | ------|
-- ⚡ Fun fact: I rock climb and run marathons!
--->
+- ⚡ Fun fact --> I rock climb and run marathons!
+
