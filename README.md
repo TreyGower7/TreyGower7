@@ -10,7 +10,17 @@ Skills: C++ / Python / Linux / Kubernetes / Redis
 
 - 🌱 I’m currently learning --> Javascript / html 
 - 📫 How to reach me: 
-  |Email: | goweryert@gmail.com|
-  |----- | ------|
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/trey-gower-4107bb188/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC5csCBWv404Pmg1c04F4oUA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="goweryert@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=TreyGower7&style=flat-square&color=blue" alt=""/>
 - ⚡ Fun fact --> I rock climb and run marathons!
 
