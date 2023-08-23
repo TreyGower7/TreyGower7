@@ -28,5 +28,5 @@ Skills: C++ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/mai
   <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
 </a>
 </div>
-- ⚡ Fun fact --> I rock climb and run marathons!
+- ⚡ Fun fact --> I rock climb and run marathons! Check out my YouTube for some content on that!
 
