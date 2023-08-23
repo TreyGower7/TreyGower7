@@ -9,8 +9,7 @@
 
 
 ### About Me:
-I see education as life itself, invaluable. Programming is a massive part of Computational Engineering, and building algorithms and running data is one of my favorite things.![image](https://github.com/TreyGower7/TreyGower7/assets/70235944/8113c36d-7dd1-491a-aa0a-97b547606cfd)
-
+I see education as life itself, invaluable. Programming is a massive part of Computational Engineering, and building algorithms and running data is one of my favorite things. As a Junior in college at The University of Texas at Austin, my main focus is writing code, which I have been doing since high school. I initially started with Java, but quickly developed my skills in C/C++ as a project for NASA required me to. Now with a decent comprehension of coding, I am excited to be doing computational research and more advanced scientific computing.
 .
 
 Skills: C++ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width =30> / Python <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width =30> / Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =30> / Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width =30> / Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width =30>
