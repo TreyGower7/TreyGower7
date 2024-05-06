@@ -11,7 +11,8 @@ With one final semester lying ahead, I am finishing up my Bachelor's Degree in C
 | Skill                                                   | Proficiency      |
 |---------------------------------------------------------|------------------|
 | FEM, CAD and CAE Applications                          | Proficient       |
-| Redis, Flask, Kubernetes, Solidworks                   | Seasoned         |
+| Redis, Flask, Kubernetes                              | Seasoned         |
+| Solidworks, Abaqus, OpenFoam                         | Well-Versed         |
 | Debugging, Performance and Statistical Analysis        | Skilled          |
 | Java, C++, Python, Matlab, Fortran, Linux, Git, Excel | Accomplished     |
 | Working with big data sets for data analysis (80gb+)   | Excellent        |
