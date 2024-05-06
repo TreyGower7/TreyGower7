@@ -8,6 +8,7 @@
 ### About Me:
 With one final semester lying ahead, I am finishing up my Bachelor's Degree in Computational Engineering at The University of Texas at Austin. I have placed a lot of emphasis on high-performance computing, especially in the Aerospace field. Although, I pride myself in being a jack of all trades, working in many other areas including Machine Learning, Simulation, Software Development, Avionics, Natural Hazard Research and Development, and much more. <a href="https://github.com/TreyGower7?tab=repositories" target="_blank">(Check out more of my work in my repositories!)</a>
 
+### Skills:
 | Skill                                                   | Proficiency      |
 |---------------------------------------------------------|------------------|
 | FEM, CAD and CAE Applications                          | Proficient       |
