@@ -8,7 +8,14 @@
 ### About Me:
 With one final semester lying ahead, I am finishing up my Bachelor's Degree in Computational Engineering at The University of Texas at Austin. I have placed a lot of emphasis on high-performance computing, especially in the Aerospace field. Although, I pride myself in being a jack of all trades, working in many other areas including Machine Learning, Simulation, Software Development, Avionics, Natural Hazard Research and Development, and much more. <a href="https://github.com/TreyGower7?tab=repositories" target="_blank">(Check out more of my work in my repositories!)</a>
 
-Skills: C++ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width =30> / Python <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width =30> / Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width =30> / Kubernetes <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width =30> / Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width =30> / And More! <a href="https://github.com/TreyGower7?tab=repositories" target="_blank">(Check Out My Repositories!)</a>
+| Skill                                                   | Proficiency      |
+|---------------------------------------------------------|------------------|
+| FEM, CAD and CAE Applications                          | Proficient       |
+| Redis, Flask, Kubernetes, Solidworks                   | Seasoned         |
+| Debugging, Performance and Statistical Analysis        | Skilled          |
+| Java, C++, Python, Matlab, Fortran, Linux, Git, Excel | Accomplished     |
+| Working with big data sets for data analysis (80gb+)   | Excellent        |
+| English and German (proficient)                        | Conversational   |
 
 
 - 📫 How to reach me: 
