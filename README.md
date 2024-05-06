@@ -20,7 +20,7 @@ With one final semester lying ahead, I am finishing up my Bachelor's Degree in C
 | English and German (proficient)                        | Conversational   |
 
 
-- 📫 How to reach me: 
+### 📫 How to reach me: 
 <div id="badges">
 <a href="https://www.linkedin.com/in/trey-gower-4107bb188/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
