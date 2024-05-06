@@ -32,5 +32,5 @@ With one final semester lying ahead, I am finishing up my Bachelor's Degree in C
   <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
 </a>
 </div>
-- ⚡ Fun fact --> I rock climb and run marathons! Check out my YouTube for some content on that!
+⚡ Fun fact --> I rock climb and run marathons! Check out my YouTube for some content on that!
 
