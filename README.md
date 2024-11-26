@@ -19,17 +19,14 @@ Check out more of my work in my [repositories](https://github.com/TreyGower7?tab
 ---
 
 ## Skills  
-| **Skill**                                             | **Proficiency**      |  
-|-------------------------------------------------------|----------------------|  
-| FEM, CAD, and CAE Applications                        | Proficient           |  
-| Redis, Flask, Kubernetes                              | Seasoned             |  
-| SolidWorks, Abaqus, OpenFOAM                          | Well-Versed          |  
-| Debugging, Performance, and Statistical Analysis      | Skilled              |  
-| Java, C++, Python, MATLAB, Fortran, Linux, Git, Excel | Accomplished         |  
-| Data Analysis with Large Datasets (80GB+)             | Excellent            |  
-| English and German                                    | Conversational       |  
 
----
+| **Category**           | **Skills**                                                                                  |  
+|-------------------------|---------------------------------------------------------------------------------------------|  
+| **Engineering Tools**   | FEM, CAD, and CAE applications; SolidWorks, Abaqus, OpenFOAM                                |  
+| **Software Development**| Redis, Flask, Kubernetes                                                                    |  
+| **Programming Languages** | Java, C++, Python, MATLAB, Fortran, Linux, Git, Excel                                     |  
+| **Data Analysis**       | Handling large datasets (80GB+), debugging, performance tuning, statistical analysis        |  
+| **Languages**           | English (fluent), German (conversational)                                                  |  
 
 ## 📫 Get in Touch  
 <div id="badges">  
@@ -47,7 +44,9 @@ Check out more of my work in my [repositories](https://github.com/TreyGower7?tab
 ---
 
 ## ⚡ Fun Facts  
-- I’m an avid **rock climber** and **marathon runner** (currently training for a sub-3-hour marathon).  
-- Check out my YouTube channel for content about my adventures!  
+- I’m an avid **rock climber** and **marathon runner** (currently training for a sub-3-hour marathon).
+- I love playing **electric guitar**!
+- Check out my YouTube channel for content about my adventures!
+
 
 --- 
