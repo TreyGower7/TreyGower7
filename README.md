@@ -22,10 +22,10 @@ Check out more of my work in my [repositories](https://github.com/TreyGower7?tab
 
 | **Category**           | **Skills**                                                                                  |  
 |-------------------------|---------------------------------------------------------------------------------------------|  
-| **Engineering Tools**   | FEM, CAD, and CAE applications; SolidWorks, Abaqus, OpenFOAM                                |  
+| **Engineering Tools**   | OpenFOAM, Abaqus, MPM, HydroUQ, SolidWorks, CAD, Machine Learning (GNNs, Surrogate Modeling) |  
 | **Software Development**| Redis, Flask, Kubernetes                                                                    |  
-| **Programming Languages** | Java, C++, Python, MATLAB, Fortran, Linux, Git, Excel                                     |  
-| **Data Analysis**       | Handling large datasets (80GB+), debugging, performance tuning, statistical analysis        |  
+| **Programming Languages** | C++, Python, MATLAB, Fortran, Linux, Git, Excel                                     |  
+| **Data Analysis**       | Handling large datasets (80GB+), debugging, cleaning, metric and statistical analysis        |  
 | **Languages**           | English (fluent), German (conversational)                                                  |  
 
 ## 📫 Get in Touch  
