@@ -11,15 +11,15 @@ I’m currently in my final semester completing a Bachelor’s Degree in Computa
 
 🧠 I consider myself a versatile engineer, with hands-on experience across:
 
-🚀 [Machine Learning](https://github.com/TreyGower7/COE_379L_Projects) & AI – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
+🚀 [Machine Learning & AI](https://github.com/TreyGower7/COE_379L_Projects) – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
 
-🌊 Physics-Based Simulation – Debris flow modeling, RANS turbulence simulations, and material point methods using Python, OpenFOAM, and Taichi.
+🌊 [Physics-Based Simulation](https://github.com/TreyGower7/CFD-Sims-Analysis) – Debris flow modeling, RANS turbulence simulations, and material point methods using Python, OpenFOAM, and Taichi.
 
-✈️ Avionics & Embedded Systems – Designing autonomous navigation, control logic, and hardware-software integration for aerial robotics.
+✈️ [Avionics & Embedded Systems](https://github.com/TreyGower7/WingBolts) – Designing autonomous navigation, control logic, and hardware-software integration for aerial robotics.
 
-🌪️ Natural Hazard R&D – Building digital twins to simulate natural disasters and reduce the cost of experimental testing for disaster scenarios.
+🌪️ [Natural Hazard R&D](https://github.com/TreyGower7/Taichi-To-GNS-Wave-Flume) – Building digital twins to simulate natural disasters and reduce the cost of experimental testing for disaster scenarios.
 
-💻 Software Development – End-to-end pipeline experience with simulation validation, numerical methods, scientific computing, and visualization.
+💻 [Software Development](https://github.com/TreyGower7/coe332-trey/tree/main/homework08) – End-to-end pipeline experience with simulation validation, numerical methods, scientific computing, and visualization.
 
 Check out more of my work in my [repositories](https://github.com/TreyGower7?tab=repositories)!  
 
