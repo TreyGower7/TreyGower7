@@ -8,6 +8,8 @@
 
 ## About Me  
 I’m currently in my final semester completing a Bachelor’s Degree in Computational Engineering at The University of Texas at Austin. I’m passionate about solving complex problems at the intersection of simulation, software, hardware, and data—with experience spanning everything from natural hazard modeling to aerospace systems. I consider myself a versatile engineer, having contributed to a wide range of domains, including:
+
+
 🧠 I consider myself a versatile engineer, with hands-on experience across:
 
 🚀 Machine Learning & AI – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
