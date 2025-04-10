@@ -7,12 +7,18 @@
 ---
 
 ## About Me  
-I’m currently in my final semester, completing a Bachelor's Degree in Computational Engineering at The University of Texas at Austin. My primary focus lies in **high-performance computing**, particularly in the **aerospace field**. However, I consider myself a versatile engineer, having worked across diverse domains such as:  
-- **Machine Learning & AI**  
-- **Physics-Based Simulations**  
-- **Avionics Systems**  
-- **Natural Hazard Research and Development**  
-- **Software Development**  
+I’m currently in my final semester completing a Bachelor’s Degree in Computational Engineering at The University of Texas at Austin. I’m passionate about solving complex problems at the intersection of simulation, software, hardware, and data—with experience spanning everything from natural hazard modeling to aerospace systems. I consider myself a versatile engineer, having contributed to a wide range of domains, including:
+🧠 I consider myself a versatile engineer, with hands-on experience across:
+
+🚀 Machine Learning & AI – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
+
+🌊 Physics-Based Simulation – Debris flow modeling, RANS turbulence simulations, and material point methods using Python, OpenFOAM, and Taichi.
+
+✈️ Avionics & Embedded Systems – Designing autonomous navigation, control logic, and hardware-software integration for aerial robotics.
+
+🌪️ Natural Hazard R&D – Building digital twins to simulate natural disasters and reduce the cost of experimental testing for disaster scenarios.
+
+💻 Software Development – End-to-end pipeline experience with simulation validation, numerical methods, scientific computing, and visualization.
 
 Check out more of my work in my [repositories](https://github.com/TreyGower7?tab=repositories)!  
 
@@ -20,13 +26,17 @@ Check out more of my work in my [repositories](https://github.com/TreyGower7?tab
 
 ## Skills  
 
-| **Category**           | **Skills**                                                                                  |  
-|-------------------------|---------------------------------------------------------------------------------------------|  
-| **Engineering Tools**   | OpenFOAM, Abaqus, MPM, HydroUQ, SolidWorks, CAD, Machine Learning (GNNs, Surrogate Modeling) |  
-| **Software Development**| Redis, Flask, Kubernetes                                                                    |  
-| **Programming Languages** | C++, Python, MATLAB, Fortran, Linux, Git, Excel                                     |  
-| **Data Analysis**       | Handling large datasets (80GB+), debugging, cleaning, metric and statistical analysis        |  
-| **Languages**           | English (fluent), German (conversational)                                                  |  
+| **Category**             | **Skills**                                                                                                                                      |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming & Scripting** | Python, C++, MATLAB, R, Bash, Git, Linux OS                                                                                                      |
+| **Scientific Computing & Data Analysis** | NumPy, SciPy, Pandas, Matplotlib, Seaborn, FFT, Signal Processing, Data Visualization, One-Hot Encoding, Regression Analysis, Time-Series Analysis, Numerical Methods, Parameter Correlation |
+| **Machine Learning & AI** | PyTorch, TensorFlow, Keras, Scikit-learn, CNNs, RNNs, GNNs, Computer Vision, Model Deployment, Hyperparameter Tuning                             |
+| **Engineering Tools**     | OpenFOAM, Abaqus, MPM, ParaView, HydroUQ, FEM, CFD/FEA workflows, Physical–Simulation Model Comparison, SolidWorks, CAD, Surrogate Modeling     |
+| **Mechanical Systems & Testing** | Wind tunnel testing, NI LabVIEW, Experimental Design, Instrumentation, Autonomous Systems, Sensors and Actuators                           |
+| **Software Development**  | Redis, Flask, Kubernetes, Containerization, REST APIs, JSON, YAML, Docker, CMake                                                                |
+| **Programming Languages** | Python, C++, MATLAB, R, Bash, Fortran, Linux, Git, Excel                                                                                       |
+| **Data Analysis Experience** | Handling large datasets (80GB+), debugging, cleaning, metric and statistical analysis                                                           |
+| **Languages**             | English (fluent), German (conversational)                                                                                                      |                                                |  
 
 ## 📫 Get in Touch  
 <div id="badges">  
