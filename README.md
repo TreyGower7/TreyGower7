@@ -11,7 +11,7 @@ I’m currently in my final semester completing a Bachelor’s Degree in Computa
 
 🧠 I consider myself a versatile engineer, with hands-on experience across:
 
-🚀 [Machine Learning & AI](https://github.com/TreyGower7/Dog_Breed_Classification) – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
+🚀 [Machine Learning & AI](https://github.com/TreyGower7/Dog_Breed_Classification) – From autonomous RC flight systems with ML-based targeting to graph neural networks for physics simulations.
 
 🌊 [Physics-Based Simulation](https://github.com/TreyGower7/CFD-Sims-Analysis) – Debris flow modeling, RANS turbulence simulations, and material point methods using Python, OpenFOAM, and Taichi.
 
@@ -20,6 +20,8 @@ I’m currently in my final semester completing a Bachelor’s Degree in Computa
 🌪️ [Natural Hazard R&D](https://github.com/TreyGower7/Taichi-To-GNS-Wave-Flume) – Building digital twins to simulate natural disasters and reduce the cost of experimental testing for disaster scenarios.
 
 💻 [Software Development](https://github.com/TreyGower7/coe332-trey/tree/main/homework08) – End-to-end pipeline experience with simulation validation, numerical methods, scientific computing, and visualization.
+
+🛠️ [Current Project](https://github.com/TreyGower7/Gait_Analysis) - Versatile running gait classifier with rapid prototyping via ML pipelines.
 
 Check out more of my work in my [repositories](https://github.com/TreyGower7?tab=repositories)!  
 
