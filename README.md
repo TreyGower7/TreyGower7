@@ -11,7 +11,7 @@ I’m currently in my final semester completing a Bachelor’s Degree in Computa
 
 🧠 I consider myself a versatile engineer, with hands-on experience across:
 
-🚀 [Machine Learning & AI](https://github.com/TreyGower7/COE_379L_Projects) – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
+🚀 [Machine Learning & AI](https://github.com/TreyGower7/Dog_Breed_Classification) – From autonomous RC flight systems with YOLO-based targeting to graph neural networks for physics simulations.
 
 🌊 [Physics-Based Simulation](https://github.com/TreyGower7/CFD-Sims-Analysis) – Debris flow modeling, RANS turbulence simulations, and material point methods using Python, OpenFOAM, and Taichi.
 
